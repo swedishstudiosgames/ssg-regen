@@ -1,5 +1,5 @@
 It took 15 minutes and about 30 seconds to generate.
-## Specs
+# Specs
 ''
 Device name:	DESKTOP-JR4SVQC
 Processor:		Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz   2.50 GHz
