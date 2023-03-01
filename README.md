@@ -8,7 +8,7 @@ Device ID:		5AECD91E-AD27-4C0E-96F8-C31EA9ED4A31
 Product ID:		00325-96279-72751-AAOEM
 System type:	64-bit operating system, x64-based processor
 Pen and touch:	No pen or touch input is available for this display
----
+
 Edition:		Windows 10 Home
 Version:		22H2
 Installed on:	2022-08-25
