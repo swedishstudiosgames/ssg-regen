@@ -1,6 +1,8 @@
 import os,itertools,string,time
 os.system("title License Plate Generator")
-print("Please wait... While i'm generating this file for you.")
+print("Please wait...",end=" ",flush=True)
+time.sleep(1)
+print("While i'm generating this file for you.")
 time.sleep(2)
 prefixs=[''.join(x)for x in itertools.product(string.ascii_uppercase+string.digits,repeat=3)]
 suffixs=[''.join(x)for x in itertools.product(string.ascii_uppercase+string.digits,repeat=3)]
