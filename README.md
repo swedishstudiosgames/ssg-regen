@@ -44,7 +44,7 @@ Pen and touch:  No pen or touch input is available for this display
 
 Edition:        Windows 10 Home
 Version:        22H2
-Installed on:	  
+Installed on:	
 OS build:       
 Experience:     Windows Feature Experience Pack
 ```
